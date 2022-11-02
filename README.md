@@ -8,7 +8,7 @@ I've written code in Python, JavaScript, C# and am currently building things in 
 - 🌱 I’m currently learning C and trying to understand bytecode interpreters
 - ⚡ Fun fact: I've written a book of poetry
 
-### Main projects:
+### Projects I've done:
 
 - 👾 VR Simulation of Parkinson's Disease on Android (not on GitHub)
 - ⚠️ Pyramid Scheme Algorithm
