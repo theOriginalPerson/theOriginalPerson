@@ -14,4 +14,5 @@ I've written code in Python, JavaScript, C# and am currently building things in 
 - ⚠️ Pyramid Scheme Algorithm
 - 💻 Full-stack restaurant website (private repo)
 - 🚀 Rocket launch console program in C (beginner-friendly)
+- 🔑 Password Generator in C
 - and many more...
