@@ -2,10 +2,10 @@
 
 #### My name is Dario, and I've got around 5 years of programming experience
 
-I've written code in Python, JavaScript, C# and am currently building things in C.
+I've written code in Python, JavaScript, C#, Dart and am currently building things in C.
 
-- 🔭 I’m currently working on a new programming language and framework...
-- 🌱 I’m currently learning C and trying to understand bytecode interpreters
+- 🔭 I’m currently working on a new programming language and operating system distribution...
+- 🌱 I’m learning C and trying to understand bytecode interpreters
 - ⚡ Fun fact: I've written a book of poetry
 
 ### Projects I've done:
