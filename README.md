@@ -1,6 +1,6 @@
 ### Hi 👋
 
-#### My name is Dario, and I've got around 4 years of programming experience
+#### My name is Dario, and I've got around 5 years of programming experience
 
 I've written code in Python, JavaScript, C# and am currently building things in C.
 
