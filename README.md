@@ -2,7 +2,7 @@
 
 #### My name is Dario, and I've been programming for around 7 years.
 
-I've written code in Python, JavaScript, C#, Dart and am currently building things in C.
+I've written code in Python, JavaScript, C#, Dart and C.
 
 - ⚡ Fun fact: I've written a book of poetry
 
