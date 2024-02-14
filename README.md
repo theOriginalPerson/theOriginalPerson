@@ -10,5 +10,5 @@ I've written code in Python, JavaScript, C#, Dart and C.
 
 - 👨‍🎓 No-Code Assignment Builder & Proctoring Tool (private repo)
 - 🤖 Data-Integrated Dashboard for AI Search Engine (private repo)
-- 🚛 Dynamic Warehouse Visualizer (not on Github)
+- 🚛 Dynamic Warehouse Inventory Visualizer (not on Github)
 - 👾 VR Simulation of Parkinson's Disease on Android (not on GitHub)
